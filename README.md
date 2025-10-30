@@ -49,7 +49,7 @@
   </a>
   <img width="8" />
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
-  <span style="font-size:12px"> &nbsp; &nbsp; Email: [your-email@example.com] (replace with your email)</span>
+  <span style="font-size:12px"> &nbsp; &nbsp; Email: [anubhavupa98@gmail.com] (replace with your email)</span>
 </div>
 
 ###
