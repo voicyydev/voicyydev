@@ -83,9 +83,9 @@ I focus on performance, user experience, and maintainable code — using both **
 
 <h2 align="left">Quick Links</h2>
 
-- 💬 Discord: [Join Here](https://discord.gg/ef8GmrW9Pm)  
-- 📸 Instagram: [@13anubhavbhai](https://www.instagram.com/13anubhavbhai?igsh=MTR5MjE4MzM1ZWFtcQ==)  
-- 📧 Email: [anubhavupa98@gmail.com](mailto:anubhavupa98@gmail.com)
+- 💬 Discord: [Join Here](https://discord.gg/DjXgb4yrGu)  
+- 📸 Instagram: [ikanubhav]([https://www.instagram.com/13anubhavbhai?igsh=MTR5MjE4MzM1ZWFtcQ==](https://www.instagram.com/ikanubhav?stkn=MTR5MjE4MzM1ZWFtcQ==)  
+- 📧 Email: [altdiscord786420@gmail.com](mailto:altdiscord786420@gmail.com)
 
 ---
 
